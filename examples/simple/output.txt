@@ -1,0 +1,2 @@
+person-output-file2:{"name":"Alice","age":25}
+person-output-file2:{"name":"Charlie","age":30}
